@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:10:15 +0800] "GET /ws/hello?wsdl HTTP/1.1" 200 1280 http-bio-8080-exec-2 141
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:10:15 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:30:29 +0800] "GET /ws/hello HTTP/1.1" 500 271 http-bio-8080-exec-5 17
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:32:40 +0800] "GET /ws/hello HTTP/1.1" 500 271 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:36:43 +0800] "GET /ws/hello?wsdl HTTP/1.1" 200 1280 http-bio-8080-exec-1 119
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:36:43 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:36:46 +0800] "GET /ws/hello HTTP/1.1" 500 271 http-bio-8080-exec-4 13
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:14:37:00 +0800] "GET /ws/hello HTTP/1.1" 500 271 http-bio-8080-exec-5 4
+127.0.0.1 - - [14/Jun/2020:14:43:07 +0800] "POST /ws/hello HTTP/1.1" 200 224 http-bio-8080-exec-7 61

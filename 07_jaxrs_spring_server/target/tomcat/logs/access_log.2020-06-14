@@ -1,0 +1,6 @@
+127.0.0.1 - - [14/Jun/2020:20:47:33 +0800] "POST /ws/userService/userService/user HTTP/1.1" 204 - http-bio-8080-exec-1 165
+127.0.0.1 - - [14/Jun/2020:20:48:00 +0800] "GET /ws/userService/userService/user/1 HTTP/1.1" 200 64 http-bio-8080-exec-3 26
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:21:27:47 +0800] "GET /ws/userService/userService/user?wsdl HTTP/1.1" 200 341 http-bio-8080-exec-5 7
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:21:27:47 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:21:30:15 +0800] "GET /ws/userService/userService/user/1?wsdl HTTP/1.1" 200 124 http-bio-8080-exec-9 5
+0:0:0:0:0:0:0:1 - - [14/Jun/2020:21:31:22 +0800] "GET /ws/userService/userService/user?wsdl HTTP/1.1" 200 341 http-bio-8080-exec-2 3
